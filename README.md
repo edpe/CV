@@ -25,7 +25,7 @@ Whilst lecturing in Electroacoustic Composition and Live Electronics Performance
 As a dissertation supervisor, I supported project development and advised on technical solutions to concepts including a backgammon board that provided a musical soundtrack to the game and an electronic instrument played by the manipulation of conductive rubber. Through supporting the undergraduates I had to quickly learn a range of new technology including arduino, electronics and analogue video processing which I also applied to my own practice.
 
 ### Introducing new technology
-I Introduced and trained staff in google docs at Access to Music Norwich in 2008. This massively increased data accuracy and communication whilst saving physical resources, office space and tightening up on safeguarding. The following year Google docs and apps began to be adopted by the company as a whole. Later on in the same role I intoduced the use of NAS drives for storing audio and video coursework which could also be accessed remotely for invigilation.
+I Introduced and trained staff in google docs at Access to Music Norwich in 2008. This massively increased data accuracy and communication whilst saving physical resources, office space and tightening up on safeguarding. The following year Google docs and apps began to be adopted by the company as a whole.
 
 In my role as National Events co-ordinator I adopted Eventbrite as a company standard for managing event ticketing and invitations. This included a live trial for the National Music Student Awards. I also designed and managed an online submission system using soundcloud and web forms for unsigned bands to win the chance to go on a tour of venues across the UK.
 
@@ -92,4 +92,4 @@ A Levels in Music, Music Tech, Physics and English Literature
 
 ## Interests
 
-I am currently playing in an ambient doom jazz band, playing jazz standards at 1/8th speed and filling the gaps with huge reverb tails, ambient field recordings and the undulating hum of valve electronics.  I also enjoy slow roasting meat and cooking with smoked paprika. Other than that I am a dad to two girls who occasionally enjoys escaping to the world of Skyrim/GTA V/No Man’s Sky.
+I am currently playing in an ambient doom jazz band, playing jazz standards at 1/8th speed and filling the gaps with huge reverb tails, ambient field recordings and the undulating hum of valve electronics.  I also enjoy slow roasting meat and cooking with smoked paprika. Other than that I am a dad to two girls who occasionally enjoys escaping to the world of Skyrim, GTA V or No Man’s Sky.
