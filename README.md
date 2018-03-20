@@ -61,7 +61,3 @@ MMus, Studio Composition
 City University, London (September 2001 - July 2004)   
 BSC Hons, Digital Music
 
-
-## Interests
-
-I am currently playing in an ambient doom jazz band, playing jazz standards at 1/8th speed and filling the gaps with huge reverb tails, ambient field recordings and the undulating hum of valve electronics.  I also enjoy slow roasting meat and cooking with smoked paprika. Other than that I am a dad to two girls who occasionally enjoys escaping to the world of Skyrim, GTA V or No Man’s Sky.
