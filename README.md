@@ -22,7 +22,7 @@ I recently completed the Makers Academy coding bootcamp and learnt lots of new t
 |-----|--------|--------|---|---|
 | [dawn](https://github.com/edpe/dawn)    | This is a procedurally generated sociogenetic simulation with it's own [blog](https://medium.com/@dawnmakersacademy) if you want to find out more. Dawn is a zero player game/artwork using physics, animation and sound | JavaScript, Matter.js, P5.js, eslint | Jasmine | Group | 
 | [jennifer.js](https://github.com/edpe/jennifer.js)  | Everyone loves testing, so why not build your own Javascript testing framework? But how to test the testing framework? Hmmm  | JavaScript | jennifer.js | Group |
-|[v a p o r b n b](https://github.com/edpe/vapor-bnb)| A vaporwave themed AirBnB clone with all the a e s t h e t i c |Ruby, DataMapper, PostgreSQL, Sinatra, CSS, Bootstrap, HTML, Rubocop| Capybara, Rspec | Group |
+|[v a p o r b n b](https://github.com/edpe/vapor-bnb)| A vaporwave themed AirBnB clone with a e s t h e t i c |Ruby, DataMapper, PostgreSQL, Sinatra, CSS, Bootstrap, HTML, Rubocop| Capybara, Rspec | Group |
 | [Gilded Rose](https://github.com/edpe/gilded-rose-ruby/tree/master/lib) | This is a tech test I completed over a day and a half in Ruby, I was particularly happy with my sneaky use of class inheritance in order to sidestep the rule against updating the item class ;) | Ruby | Rspec| Solo |
 
 
