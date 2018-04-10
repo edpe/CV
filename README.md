@@ -11,11 +11,11 @@ I recently graduated from Europe's leading Web Developer bootcamp [Maker's Acade
 ### What do I do? <a name= "what"></a>
 For the last twelve years my work has focussed on building software and electronic devices that either model or support human interaction:
 
+* I designed, programmed and project managed [The Stream](https://youtu.be/4APoBti_s44), a generative composition system that modelled a virtual society and converted the data streams to musical score. The work was performed on numerous occaisions as part of a residency with the RPS award winning contemporary music ensemble [Apartment House](http://www.apartmenthouse.co.uk/).
+
 * I developed camera tracking software with audio feedback for a research project which used entrainment to rhythm to rehabilitate the upper limb movement of stroke patients in collaboration with researchers at Goldsmiths and UEA. 
 
 * I designed and built the multiplayer electronic instrument [Conductable](https://youtu.be/s4AuEc8rVq0) for the Aldburgh festival in 2013 as part of a team of engineers, musicians and model design undergraduates. 
-
-* I designed, programmed and project managed [The Stream](https://youtu.be/4APoBti_s44), a generative composition system that modelled a virtual society and converted the data streams to musical score. The work was performed on numerous occaisions as part of a residency with the RPS award winning contemporary music ensemble [Apartment House](http://www.apartmenthouse.co.uk/).
 
 I have also performed, formed ensembles, organised events and tours, built [electronic instruments](https://youtu.be/k81meVMH7uk), and exhibited sound art installations across the UK and Europe at venues including [Ars Electronica(Linsz)](https://youtu.be/9vhrE7nrzNY), [SARC(Belfast)](https://youtu.be/k81meVMH7uk), the ICA(London) and the Tate Modern. 
 
