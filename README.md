@@ -4,9 +4,9 @@
 
 ### Who am I? <a name= "whoami"></a>
 
-I'm fairly new to the world of web development, but no stranger to technology and have been coding and using electronics since I was ten (I wrote the Blackadder theme tune in Basic on a BBC Micro, I was a weird kid). I recently graduated as a doctor of music and have spent my artistic career developing new technology to facilitate creative interactions between groups of people both on stage and in education, I've even written 45,000 words of [PhD thesis](http://edperkins.co.uk/LEEP.pdf) about it. 
+I'm fairly new to the world of web development, but no stranger to technology and have been coding and using electronics since I was ten (I wrote the Blackadder theme tune in Basic on a BBC Micro, I was a weird kid). I am a doctor of music and have spent my artistic career developing new technology to facilitate creative interactions between groups of people both on stage and in education, I've even written 45,000 words of [PhD thesis](http://edperkins.co.uk/LEEP.pdf) about it. 
 
-I recently graduated from Europe's leading Web Developer bootcamp [Maker's Academy](https://www.makersacademy.com/) and currently on the lookout for a team that has a good cultural fit for me.  Ideally this would be a place where agile development, XP values and TDD go hand in hand with ongoing personal development, good communication, emotional intelligence and the freedom to be creative and learn new things. 
+I recently graduated from Europe's leading Web Developer bootcamp [Maker's Academy](https://www.makersacademy.com/) and I am currently on the lookout for a team that has a good cultural fit for me.  Ideally this would be a place where agile development, pairing,  XP values and TDD go hand in hand with ongoing personal development, good communication, emotional intelligence and the freedom to be creative and learn new things. 
 
 ### What do I do? <a name= "what"></a>
 For the last twelve years my work has focussed on building software and electronic devices that either model or support human interaction:
