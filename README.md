@@ -4,7 +4,7 @@
 
 ### Who am I? <a name= "whoami"></a>
 
-I'm fairly new to the world of web development, but no stranger to technology and have been coding and using electronics since I was ten (I wrote the Blackadder theme tune in Basic on a BBC Micro, I was a weird kid). I am a doctor of music and have spent my artistic career developing new technology to facilitate creative interactions between groups of people both on stage and in education, I've even written 45,000 words of [PhD thesis](http://edperkins.co.uk/LEEP.pdf) about it. 
+I'm fairly new to the world of web development, but no stranger to technology and have been coding and using electronics since I was ten (I wrote the Blackadder theme tune in Basic on a BBC Micro, I was a weird kid). I am now a doctor of music and have spent my artistic career developing new technology to facilitate creative interactions between groups of people both on stage and in education, I've even written 45,000 words of [PhD thesis](http://edperkins.co.uk/LEEP.pdf) about it. 
 
 I recently graduated from Europe's leading Web Developer bootcamp [Maker's Academy](https://www.makersacademy.com/) and I am currently on the lookout for a team that has a good cultural fit for me.  Ideally this would be a place where agile development, pairing,  XP values and TDD go hand in hand with ongoing personal development, good communication, emotional intelligence and the freedom to be creative and learn new things. 
 
@@ -19,7 +19,7 @@ For the last twelve years my work has focussed on building software and electron
 
 I have also performed, formed ensembles, organised events and tours, built [electronic instruments](https://youtu.be/k81meVMH7uk), and exhibited sound art installations across the UK and Europe at venues including [Ars Electronica(Linsz)](https://youtu.be/9vhrE7nrzNY), [SARC(Belfast)](https://youtu.be/k81meVMH7uk), the ICA(London) and the Tate Modern. 
 
-I am keen to share what I do and besides [blogging and sharing my project diaries](http://edperkins.tumblr.com/), I have talked about and presented my work at universities and conferences across the UK, at Dorkbot meetings and Maker Faires, and also on BBC TV & Radio, Resonance FM, and The Discovery Channel(Canada). I also feature as part of the [British Music Collection](https://britishmusiccollection.org.uk/composer/ed-perkins). 
+I am keen to share what I do and besides [blogging](https://medium.com/@edperkins_91741/setting-up-a-tdd-development-environment-in-php-including-ubuntu-server-on-a-mac-for-total-noobs-bae760dc8730) and [sharing my project diaries](http://edperkins.tumblr.com/), I have talked about and presented my work at universities and conferences across the UK, at Dorkbot meetings and Maker Faires, and also on BBC TV & Radio, Resonance FM, and The Discovery Channel(Canada). I also feature as part of the [British Music Collection](https://britishmusiccollection.org.uk/composer/ed-perkins). 
 
 Most recently I worked as part of a team to develop [dawn](https://rcvink.github.io/dawn/), a simple genetic simulator/generative artwork built in JavaScript using the Matter P5 libraries with testing in Jasmine.
 
@@ -39,10 +39,10 @@ I recently completed the Makers Academy coding bootcamp and learnt lots of new t
 ### Experience <a name= "experience"></a>
 I have a fairly extensive amount of work experience covering a lot of areas and skills, here is some of it:
 
-Access to Music Norwich (February 2014 - July 2017)   
-Technical Manager
+Access to Music FE College Norwich (February 2014 - July 2017)   
+Resources Manager
 
-Atom Live/Access to Music (January 2012 - February 2014)  
+Atom Live/Access to Music FE College  (January 2012 - February 2014)  
 National Events Co-ordinator
 
 Aldeburgh Music (February 2012 - August 2012)   
@@ -66,8 +66,8 @@ Student Mentor/Group facilitator
 Sound and Music/Apartment House (April 2011 - June 2013)   
 Composer in Residence
 
-
-
+Access to Music FE College (Sept 2009 - July 2011)
+Composition Tutor/Mentor
 
 
 ### Education <a name= "education"></a>
