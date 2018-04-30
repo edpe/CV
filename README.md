@@ -66,7 +66,7 @@ Student Mentor/Group facilitator
 Sound and Music/Apartment House (April 2011 - June 2013)   
 Composer in Residence
 
-Access to Music FE College (Sept 2009 - July 2011)
+Access to Music FE College Norwich (September 2009 - July 2011)   
 Composition Tutor/Mentor
 
 
