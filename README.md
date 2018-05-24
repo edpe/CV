@@ -6,7 +6,7 @@
 
 I'm fairly new to the world of web development, but no stranger to technology and have been coding and using electronics since I was ten (I wrote the Blackadder theme tune in Basic on a BBC Micro, I was a weird kid). I am now a doctor of music and have spent my artistic career developing new technology to facilitate creative interactions between groups of people both on stage and in education, I've even written 45,000 words of [PhD thesis](http://edperkins.co.uk/LEEP.pdf) about it. 
 
-I recently graduated from Europe's leading Web Developer bootcamp [Maker's Academy](https://www.makersacademy.com/) and I am currently on the lookout for a team that has a good cultural fit for me.  Ideally this would be a place where agile development, pairing,  XP values and TDD go hand in hand with ongoing personal development, good communication, emotional intelligence and the freedom to be creative and learn new things. 
+I recently graduated from Europe's leading Web Developer bootcamp [Maker's Academy](https://www.makersacademy.com/) and I am currently on the lookout for a team that has a good cultural fit for me.  Ideally this would be a place where agile development, testing, pairing and  XP values go hand in hand with ongoing personal development, good communication, emotional intelligence and the freedom to be creative and learn new things. 
 
 ### What do I do? <a name= "what"></a>
 For the last twelve years my work has focussed on building software and electronic devices that either model or support human interaction:
@@ -40,7 +40,7 @@ I recently completed the Makers Academy coding bootcamp and learnt lots of new t
 I have a fairly extensive amount of work experience covering a lot of areas and skills, here is some of it:
 
 Access to Music FE College Norwich (February 2014 - July 2017)   
-Resources Manager
+Technical & Resources Manager
 
 Atom Live/Access to Music FE College  (January 2012 - February 2014)  
 National Events Co-ordinator
@@ -64,7 +64,7 @@ ExAudi/Aldeburgh Music/UEA (January 2011 - September 2012)
 Student Mentor/Group facilitator
 
 Sound and Music/Apartment House (April 2011 - June 2013)   
-Composer in Residence
+Composer in Residence - Embedded Award
 
 Access to Music FE College Norwich (September 2009 - July 2011)   
 Composition Tutor/Mentor
